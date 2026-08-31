@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Здраве на SSD
+Type=Application
+Exec=/home/user/ssd_health_launch.sh
+Icon=drive-harddisk
+Terminal=true
+Categories=Utility;System;
+StartupNotify=true
