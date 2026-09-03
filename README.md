@@ -6,6 +6,11 @@
 
 Терминална програма на Python, която показва **здравето на SSD и HDD** чрез SMART данни.
 
+If you have any questions about install, or need free translation to ENG or any other please contact me: 
+good.vibes.github@gmail.com
+Free to use by anyone private or business in all countries. 
+Free to change anything depend to your whims.
+
 Автоматично намира дисковете, чете `smartctl` и дава оценка 0–100% плюс температура, износване, резервни блокове, работни часове и проблемни сектори.
 
 Работи на **Linux**, **Windows** и **macOS**. Изходът е на български.
